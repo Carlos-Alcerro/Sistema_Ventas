@@ -95,4 +95,4 @@ select * from Usuario;
 -------------------------------------------------------------------------------------------------------------------------
 ## Clonar el repositorio
 * Para clonar el repositorio copia la url en GitHubDesktop y se clonara rapidamente:
-https://github.com/Carlos-Alcerro/SistemaPOS_Venta.git
+https://github.com/Carlos-Alcerro/Sistema_Ventas.git
